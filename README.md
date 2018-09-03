@@ -1,1 +1,3 @@
-# WildlfieSanctuaries
+# Wildlfie Sanctuaries
+
+An android application that provides the information about all the wildlife sanctuaries of India. User can get the list of wildlife sanctuaries either on the basis of his current location or a specified location (selecting state and then city). After getting a list of all the wildlife sanctuaries, he/she can view the details about that particular sanctuary such as area in square metres, description, famous animal etc. A map is also displayed pin-pointing the exact location of  the sanctuary. User can also get the distance and time required to reach the sanctuary from his current location along with the directions for reaching the sanctuary. 

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "642279948704",
+    "firebase_url": "https://wildlifesanctuaries-976cb.firebaseio.com",
+    "project_id": "wildlifesanctuaries-976cb",
+    "storage_bucket": "wildlifesanctuaries-976cb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642279948704:android:20632da59849808a",
+        "android_client_info": {
+          "package_name": "com.application.akarsh.wildlifesanctuaries"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642279948704-fh59quj8nduqatlll5bi866h6d22hq79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.application.akarsh.wildlifesanctuaries",
+            "certificate_hash": "4d195e74a60a2fcc5ce3b0367f636de320638b28"
+          }
+        },
+        {
+          "client_id": "642279948704-oqn45t2d2fumktmptvvknekc4vejj66b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAOnhEBDTpoM8F_TUfBiXiXPLzYQfTZPec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "642279948704-oqn45t2d2fumktmptvvknekc4vejj66b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

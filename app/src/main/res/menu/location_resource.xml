@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- "Mark Favorite", should appear as action button if possible -->
+    <item
+        android:id="@+id/action_location"
+        android:icon="@android:drawable/ic_menu_mylocation"
+        android:title="@string/DetectLocation"
+        app:showAsAction="always"/>
+
+    <item
+        android:id="@+id/action_feedbacks"
+        android:title="@string/view_feedbacks"
+        app:showAsAction="never"/>
+
+</menu>

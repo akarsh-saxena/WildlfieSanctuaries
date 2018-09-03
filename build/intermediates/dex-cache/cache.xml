@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\modules-2\files-2.1\android.arch.lifecycle\common\1.0.0\e414a4cb28434e25c4f6aa71426eb20cf4874ae9\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e414a4cb28434e25c4f6aa71426eb20cf4874ae9">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\23.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\a6eb0a09275169e1edc6d736296605d3\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\9c544799eb6d054452aed5bc35e4a06a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\79ca15c9eb34428e66850c6f15796ad6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\08f7bd201047a1cc5b624a143d840806\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2442771a5590dd4eb4bce00c2e9dca9e22e4c963">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\15.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-25.1.1.aar\e96c6d7284522f7aa5e6285a6d4b6049\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c9649557905bf7a80fca9e0d54cbcb7662627860">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\25.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a5033aa6c509e728d7590e9d1ad42fc9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="42c9659c973e311ffdb645ed057e5053e0ab5c78">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\f3b019151ccb5ebeeceda8e527cb3f3f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\60a5425666639a20949f70138c6c5daa\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\2a67ba4989e5a3b01aba4d55e2d2dc31\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\af286481bbd8dbed399d5eb88a3b8f06\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\200ecb7064b3deea443219b29194db6f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\ec4a7e84f38d3109fb0d0e5a44aa576b\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\4bce05b4a4f8f229cf5b2e3b94d665a1\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="264ad23f9752aabecfa41115c52a25a023a08839">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\32.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\444b1214f45b2fffbe20025cc1e1240d\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6aeff19a2ce1eb896557be73cb9ceb56f8d1cf3">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\33.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\84456cf64f35fd8b1fc891af6d3a37ec\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\330f6216e75d476d2534064cb268516f\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\firebase-storage-11.8.0.aar\38940dfd7185d93849ab9ade5e0141f8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c59cc4d67084879423713a416182208836c0a29f">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\6a42f7745d8e404f65415fbd709c6981\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\volley-1.1.0.aar\04c74130ef50672ea6831462b224dcb7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9bdfc3e83c6bc1f8bc5807cdaf7e94ac884a2a0d">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.1.0\814258103cf26a15fcc26ecce35f5b7d24b73f8\support-annotations-26.1.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0814258103cf26a15fcc26ecce35f5b7d24b73f8">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\16.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-11.8.0.aar\c522ca49c9fb38008aefac26b6068a34\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="08bbb31d3aae0e337647a49575c2d1f1ec7d6996">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\30.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\8e881b20a9478c449ba3f674b3283c18\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f97cf85b0fe70d37a705111dafa6b1b418ea1650">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\13.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\ad4686f9ef14a15d69b5814e8ab380d5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\8b18a83b70c5d832b6e97f24ecc532ee\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\6b577b2dcaeedaaeb802728b9733e9c5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5ad3911825107d8dd4b017fdecebfd23c08048dd">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\e875cdd46c45864d4648444461754e69\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7efef32744ca4a436492d5cf28c08698cc2af256">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\11.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\2ba0babf5c97c9018b2af87f4f5ac742\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\5cb80125b74f5ca4a35a287c90bb05e0\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b62fdc4cfef174c1e456014195c83fa7de7dc041">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\21.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\5a8d92e8d83e9968c409ac66c4abb9e7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="40392f30a601db5675cdf18192aab013d6fee6ec">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\4e3c58d9b9cb623fdc1c787320ba087a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="508f50705b4fde51a16259f29c854201a3044516">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\12.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9246d9d488ccd872b448bbc800e4fba8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\a10cbdd90f239841631083fd23671691\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\c2de315e3edc8b4d8b86ada5a1a824c8\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6f4138a4e065826cb044d49faea4cfd7191773d1">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\771ad5bc40c935a62546fff3a47400bd\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d2af2ef4d987d753f2e8ee2d1480ab964d5c7273">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\5b1c38c4fcd6b0cfdea1ecd49e0f6848\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233d88c6f961d2a84758dfe27b7af61318190c7b">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\9d4923c3dc23914851239dc8e55f0a34\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="122de0d704f76d2bb5cb9db66e00fe90a0a41e78">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\488b56f373bddc7c0e29610a1ab9b54a\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="233f60a165ae622c8b36731502ebbda0f65e1930">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\4966f9d90d70cb43630dbf7c454a56b9\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f428e2fbc9ed0b297e3a3f420e51e6982f66822d">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\6e067e2b034adee03762976b81ed03b7\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c5bc72ad3250d065128d1d7514279be703e57bd0">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\28.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\play-services-maps-11.8.0.aar\7c96b24eb2776027f62067df62a269d5\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="601ebd8fa027a3dad924ffa1cb14689ced5aa436">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\b4113b11e3d73a52f1e74ab74c3672a6\jars\classes.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\10.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Akarsh\.gradle\caches\modules-2\files-2.1\android.arch.core\common\1.0.0\a2d487452376193fc8c103dd2b9bd5f2b1b44563\common-1.0.0.jar"
+        jumboMode="false"
+        min-sdk-version="21"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a2d487452376193fc8c103dd2b9bd5f2b1b44563">
+        <dex dex="E:\AndroidProjects\MajorProjects\WildlifeSanctuaries\app\build\intermediates\transforms\preDex\release\24.jar" />
+    </item>
+
+</items>

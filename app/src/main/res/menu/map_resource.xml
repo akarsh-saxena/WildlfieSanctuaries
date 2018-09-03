@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group >
+        <item
+            android:id="@+id/actionSatellite"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="@string/Satellite"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/actionNormal"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="@string/Normal"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/actionHybrid"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="@string/hybrid"
+            app:showAsAction="never" />
+        <item
+            android:id="@+id/actionTerrain"
+            android:icon="@android:drawable/ic_menu_mylocation"
+            android:title="@string/Terrain"
+            app:showAsAction="never" />
+    </group>
+
+    <item
+        android:id="@+id/action_map"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="@string/Get_Directions"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/feedback"
+        android:icon="@android:drawable/ic_menu_mapmode"
+        android:title="@string/give_feedback"
+        app:showAsAction="never" />
+
+</menu>

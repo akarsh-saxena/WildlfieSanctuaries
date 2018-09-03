@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Wildlife Sanctuaries</string>
+    <string name="DetectLocation">Detect Location</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="Get_Directions">Get Directions</string>
+    <string name="get_time_and_distance">Get Time and Distance</string>
+    <string name="Normal">Normal</string>
+    <string name="Terrain">Terrain</string>
+    <string name="Satellite">Satellite</string>
+    <string name="hybrid">Hybrid</string>
+    <string name="enter_email">Enter Email</string>
+    <string name="enter_feedback">Enter Feedback</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="submit">Submit</string>
+    <string name="give_feedback">Give Feedback</string>
+    <string name="book_hotels">Book Hotels</string>
+    <string name="book_cab">Book Cab</string>
+    <string name="view_feedbacks">View Feedbacks</string>
+</resources>
